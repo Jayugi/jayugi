@@ -1,4 +1,4 @@
-
+<img src="https://github.com/Jayugi/spectre/blob/master/images/SRE.jpg" />
 
 ### Hi there 👋
 I am SecOps engineer skilled in automating the security function.
