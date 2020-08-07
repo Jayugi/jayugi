@@ -13,4 +13,4 @@ I'm your go-to for  🪓 pentest & Security-as-a-Service automation ♾️.
 - 🐱‍👤 Security ( SecOps, ☁️🔐Cloud Sec, 🖧🔐Network sec, 📱🔐 AppSec & 🪓 Pentest) 
 - 🌱 Learning Swift 🐦 	 &  ☢️ Rust R
 - ⚡ Connection Hub: [jayugi.dev](https://dev.to/jayugi)
-- 📫 Reach me on 🦜 [Twitter](https://twitter.com/joshk8s) 
+- 📫 Reach me on 🦜 [@joshk8s](https://twitter.com/joshk8s) 
