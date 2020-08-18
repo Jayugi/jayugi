@@ -1,4 +1,4 @@
-<img src="https://github.com/Jayugi/spectre/blob/master/images/SRE.jpg" />
+<img src="https://github.com/Jayugi/jayugi/raw/master/SRE.jpg" />
 
 ### Hi there 👋
 I am SecOps engineer skilled in automating the security function.
