@@ -1,9 +1,12 @@
 <img src="https://github.com/Jayugi/jayugi/raw/master/SRE.jpg" />
 
 ### Hi there 👋
-I am SecOps engineer skilled in automating the security function.
-I helps secure Kubernetes clusters moslty by implementing secure SDL, secure API's (REST gRPC), Secure Service Mesh & Defense-in-depth methodologies.
-I'm your go-to for  🪓 pentest & Security-as-a-Service automation ♾️.
+Seasoned security engineer skilled in 🪓 penetration testing & Security-as-a-Service automation ♾️.
+My portfolio spans various fields most notably; Application security, Exploit development and  Cloud-native infrastructure.
+
+A notable value proposition I offer is; 
+My ability to leverage SRE concepts to automate observability & scalability within the security function.
+
 
 -  🏗️ 🧰 Experienced in:
 	  -   ☸️ Kubernetes OKD EKS AKS GKE
