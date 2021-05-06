@@ -2,18 +2,16 @@
 
 ### Hi there 👋
 Seasoned security engineer skilled in 🪓 penetration testing & Security-as-a-Service automation ♾️.
-My portfolio spans various fields most notably; Application security, Exploit development and  Cloud-native infrastructure.
+My portfolio spans ; Application security,Cloud-native infrastructure & Exploit development.
 
-A notable value proposition I offer is; 
-My ability to leverage SRE concepts to automate observability & scalability within the security function.
+Key value prop; 
+Leveraging SRE concepts to automate observability & scalability within the security function.
 
 
 -  🏗️ 🧰 Experienced in:
 	  -   ☸️ Kubernetes OKD EKS AKS GKE
-	  -  C++
-	  -  🐍 Python
-	  -  🐹 Go	
-- 🐱‍👤 Security ( SecOps, ☁️🔐Cloud Sec, 🖧🔐Network sec, 📱🔐 AppSec & 🪓 Pentest) 
-- 🌱 Learning Swift 🐦 	 &  ☢️ Rust R
+	  -  C++  , 🐍 Python & Intermediate 🐹 Go	
+- 🐱‍👤 Security ( Observability, Pen-aaS & Red Team Ops) 
+- 🌱 Learning Swift 5G Core & NFVI
 - ⚡ Connection Hub: [jayugi.dev](https://dev.to/jayugi)
 - 📫 Reach me on 🦜 [@joshk8s](https://twitter.com/joshk8s) 
